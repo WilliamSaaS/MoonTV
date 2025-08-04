@@ -1,5 +1,5 @@
 {
-  "cache_time": 7200,
+  "cache_time": 8000,
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -31,6 +31,10 @@
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
+    },
+    "iqiyi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
